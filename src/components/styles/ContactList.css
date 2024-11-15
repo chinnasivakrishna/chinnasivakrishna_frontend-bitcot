@@ -1,0 +1,31 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #000; /* Black background */
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  h2 {
+    background-color: #81d4fa; /* Light blue header */
+    color: #000;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  .contact-list {
+    margin-top: 10px;
+  }
+  
+  button {
+    background-color: #81d4fa;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  

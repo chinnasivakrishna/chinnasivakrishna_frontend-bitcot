@@ -1,0 +1,39 @@
+.contact-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #444;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-item .contact-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-item img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .contact-item .actions {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-item .actions button {
+    background: none;
+    border: none;
+    color: #81d4fa;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  
+  .contact-item .actions button:hover {
+    color: #0099cc;
+  }
+  
